@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7470416778",
+    "project_id": "ourielb13",
+    "storage_bucket": "ourielb13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7470416778:android:087b7b2ef2c609675f3e73",
+        "android_client_info": {
+          "package_name": "com.example.loginregister20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7470416778-ob8sl4afbitmub55f34nh2c2k7gdsj8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDc9iSxRqV_2v7063OvDyLm7Mk4nR9OIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7470416778-ob8sl4afbitmub55f34nh2c2k7gdsj8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
